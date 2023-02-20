@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+header {
+  text-align: center;
+  position: fixed;
+  background-color: hsl(26, 85%, 80%);
+  width: 100%;
+}
+
 body {
   background-color:  #EFEFD0;
 }
@@ -11,4 +18,10 @@ body {
 p {
   margin-inline: 2rem;
   margin-block: 2rem;
+}
+
+footer {
+  width: 100&;
+  padding: 10px;
+  background-color: hsl(22, 57%, 52%);
 }
