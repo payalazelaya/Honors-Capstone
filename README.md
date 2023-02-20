@@ -29,3 +29,7 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+[Teachers use of new technologies in Latin America](https://www.oecd-ilibrary.org/sites/e1c0a802-en/index.html?itemId=/content/component/e1c0a802-en)
+
+[The digital transformation for all](https://www.oecd-ilibrary.org/sites/e7a00fd6-en/index.html?itemId=/content/component/e7a00fd6-en#sect-70)
