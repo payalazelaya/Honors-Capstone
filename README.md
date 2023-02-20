@@ -33,3 +33,5 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 [Teachers use of new technologies in Latin America](https://www.oecd-ilibrary.org/sites/e1c0a802-en/index.html?itemId=/content/component/e1c0a802-en)
 
 [The digital transformation for all](https://www.oecd-ilibrary.org/sites/e7a00fd6-en/index.html?itemId=/content/component/e7a00fd6-en#sect-70)
+
+[Bootcamp: How Latin America is teaching girls to code](https://www.weforum.org/agenda/2017/03/these-latin-american-bootcamps-are-teaching-girls-to-code)
