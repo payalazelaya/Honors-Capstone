@@ -6,9 +6,51 @@
 
 header {
   text-align: center;
+  position: fixed;
   background-color: hsl(26, 85%, 80%);
   width: 100%;
 }
+
+.nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 1em;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.nav-toggle-label span, 
+.nav-toggle-label span:before,
+.nav-toggle-label span:after {
+    display: block;
+    background: hsl(0, 0%, 0%);
+    height: 2px;
+    width: 2em;
+    border-radius: 2px;
+    position: relative;
+}
+
+.nav-toggle-label span:before,
+.nav-toggle-label span:after {
+    content: '';
+    position: absolute;
+}
+
+.nav-toggle-label span:before {
+    bottom: 7px;
+}
+
+.nav-toggle-label span:after {
+    top: 7px;
+}
+
+
 
 body {
   background-color:  #EFEFD0;
