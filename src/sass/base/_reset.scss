@@ -56,13 +56,15 @@ body {
   background-color:  #EFEFD0;
 }
 
-p {
+main p {
   margin-inline: 2rem;
   margin-block: 2rem;
+  border: 1px solid hsl(0, 0%, 0%);
 }
 
 footer {
+  text-align: center;
   width: 100&;
-  padding: 10px;
+  padding: 2rem;
   background-color: hsl(22, 57%, 52%);
 }
